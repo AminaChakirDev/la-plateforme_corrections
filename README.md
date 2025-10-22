@@ -9,6 +9,7 @@ Tu trouveras ici les solutions classées **par runtrack**, **par jour**, et **pa
 
 L’arborescence du dépôt est la suivante :
 
+```
 ├── runtrack-03/
 │ ├── jour-01/
 │ │ ├── job-01/
@@ -17,6 +18,7 @@ L’arborescence du dépôt est la suivante :
 │ ├── jour-02/
 │ └── ...
 └── ...
+```
 
 
 Chaque dossier contient :
